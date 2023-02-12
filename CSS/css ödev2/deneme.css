@@ -1,0 +1,63 @@
+
+
+*{margin: 0;}
+
+ul { list-style-type:none; }
+
+
+.img1 {
+    width: 33%;
+    margin-left: 37%;
+}
+
+.container{
+    list-style: none;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 160px;
+    
+
+}
+
+.üst-ksm {
+    text-align: center;    
+    background-color:#f2f2f2f2;
+    margin-bottom: 5px;
+    
+}
+
+.alt {margin-top: 0.1px;}
+
+.solalt {
+    
+    background-color: aquamarine;
+    float: left;
+    width: 39.7%;
+    height: 80px;
+    margin: 0 ;
+    margin-right: 0.3%;
+    
+}
+
+
+.ortaalt {
+    text-align: center;
+    background-color:aqua;    
+    float: left;
+    width: 19.7%;
+    margin: 0 ;
+    padding: 0;
+    height: 80px;
+    margin-right: 0.3%;
+}
+
+
+.sagalt {
+    text-align: center;
+    background-color: rgb(94, 230, 196);
+    float: left;
+    width: 40%;
+    height: 80px;
+    margin: 0 auto 5px;
+}
+
